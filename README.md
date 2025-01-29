@@ -1,5 +1,7 @@
 Guess-The-Number-Game🎲
+
 Welcome to the Guess-The-Number-Game! 🕹️
+
 This is a simple and fun command-line game where players have to guess a randomly generated number within a given range. Players are given 7 chances to guess the correct number. After each guess, the game provides feedback to guide the player toward the correct number.
 
 How to Play
